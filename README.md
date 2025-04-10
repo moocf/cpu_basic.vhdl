@@ -116,3 +116,4 @@ Design of a pentium-like 32-bit CPU.
 ![ghdl-prime](docs/ghdl-prime.png)
 
 ![ghdl-prime2](docs/ghdl-prime2.png)
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/cpu_basic.vhdl)
